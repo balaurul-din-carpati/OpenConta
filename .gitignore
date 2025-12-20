@@ -35,7 +35,7 @@
 *.i*86
 *.x86_64
 *.hex
-
+*.swp
 # Debug files
 *.dSYM/
 *.su
@@ -53,3 +53,7 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+
+
+apps/api/openconta_server
